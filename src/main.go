@@ -2,7 +2,7 @@ package main
 
 /**
  * @file main.go
- * @author Original author: Free Code Camp
+ * @author Original author: Free Code Camp (Akhil Sharma)
  *		   Changes made by 0xChristopher for learning purposes
  *
  * This application demonstrates simple web server functionality by handling multiple routes and printing
